@@ -1,6 +1,6 @@
 ###  Olá! Eu sou Estevão Júnior
 
-- 📚 Graduando em Engenharia da Computação. P 9/10
+- 📚 Graduando em Engenharia da Computação. P 10/10
 - 🌱 Atualmente estudando desenvolvimento web full stack aprendendo as tecnologias: HTML 5, CSS 3, JAVASCRIPT, JQUERY, BOOTSTRAP, REACT, FIREBASE, NODE JS, MONGO DB E ELECTRON.
 
 ##
